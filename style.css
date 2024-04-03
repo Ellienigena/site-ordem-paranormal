@@ -1,4 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
-    background-color: #aaaaaa;
+    background-color: #eeeeee;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+.titulo{
+    margin: 24px 0;
+    color: black;
+    font-size: 50px;
+}
+.lista-cabeçalho{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
 }
