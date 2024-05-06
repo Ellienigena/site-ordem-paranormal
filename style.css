@@ -27,7 +27,7 @@ header{
     width: 40%;
 }
 .Ordem{
-    background-color:#727272;
+    background-color:#9e9e9e;
     color: #1d1d1d;
     display: flex;
     justify-content: center;
@@ -49,6 +49,10 @@ header{
 .temporadas{
     text-align: center;
     padding: 50px 0; 
+    background-color: #9e9e9e;
+}
+.temporadas-titulo{
+    padding: 50px 0;
 }
 .temporadas-todas{
     display: grid;
@@ -59,4 +63,24 @@ header{
 }
 .Desconjuração-imagem{
     width: 510px;
+}
+.Calamidade-imagem{
+    width: 510px;
+}
+.sdol-imagem{
+    width: 510px;
+}
+.osni-imagem{
+    width: 510px;
+}
+.Quarentena-imagem{
+    width: 510px;
+}
+.rodape{
+    background-color: #1d1d1d;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px;
 }
